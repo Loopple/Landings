@@ -11,6 +11,7 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 - [Templates](#templates)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Community](#community)
+- [Contributors](#contributors)
   
 ## Categories
 
@@ -74,8 +75,14 @@ Get updates on Loopple Templates' development and chat with us:
 - [Pinterest](https://www.pinterest.com/loopple/)
 - [Discord](https://discord.gg/mU7wgc3tRN)
   
+## Contributors
 
+Special thanks to everyone who contributed to getting the Loopple Templates available:
   
+- [Creative Tim](https://www.creative-tim.com/) - Help with the Soft UI Design System Theme
+- [Pexels](https://www.pexels.com/) - Videos
+- [Unsplash](https://unsplash.com/) - Images
+
   
   
   
