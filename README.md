@@ -36,8 +36,11 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 |No.| Template Name  | Image Preview | Template Page | Live Editor | 
 |-----|----------------|--|--------------|--------------|
 |  01  | Ecommerce Gift Shop Landing Page |![Ecommerce Gift Shop Landing Page](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Ecommerce%20Gift%20Shop%20Landing%20Page.png)|[template page](https://www.loopple.com/product/ecommerce-gift-shop-landing-page)|[live editor](https://www.loopple.com/samples/ecommerce-gift-shop-landing-page)   
-|  02  | Hospital Landing Page |![Hospital Landing Page](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Hospital%20Landing%20Page.png)|[template page](https://www.loopple.com/product/hospital-landing-page)|[live editor](https://www.loopple.com/samples/hospital-landing-page)  
-
+|  02  | Hospital Landing Page |![Hospital Landing Page](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Hospital%20Landing%20Page.png)|[template page](https://www.loopple.com/product/hospital-landing-page)|[live editor](https://www.loopple.com/samples/hospital-landing-page)
+|  03  | Web Agency Website |![Web Agency Website](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Web%20Agency%20Website.png)|[template page](https://www.loopple.com/product/web-agency-website)|[live editor](https://www.loopple.com/samples/web-agency-website)  
+|  04  | Blog Page Tech |![Blog Page Tech](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Blog%20Page%20Tech.png)|[template page](https://www.loopple.com/product/blog-page-tech)|[live editor](https://www.loopple.com/samples/blog-page-tech)  
+|  05  | Flowers Shop Ecommerce Website |![Flowers Shop Ecommerce Website](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Flowers%20Shop%20Ecommerce%20Website.png)|[template page](https://www.loopple.com/product/flowers-shop-ecommerce-website)|[live editor](https://www.loopple.com/product/flowers-shop-ecommerce-website)
+|  06  | Job Portal Website |![Job Portal Website](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Job%20Portal%20Website.png)|[template page](https://www.loopple.com/product/job-portal-website)|[live editor](https://www.loopple.com/product/job-portal-website)  
   
   
   
