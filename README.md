@@ -5,6 +5,12 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 <p><a href="https://www.loopple.com/website-builder">Loopple Website Builder »</a></p>
 <p><a href="https://www.loopple.com/">Loopple</a> · <a href="https://www.loopple.com/templates">Templates</a> · <a href="https://www.loopple.com/blog">Blog</a>
 
+## Table of contents
+
+- [Categories](#categories)
+- [Templates](#templates)
+  
+  
 ## Categories
 
 - Education - https://www.loopple.com/templates/education
@@ -25,7 +31,13 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 - Web Hosting - https://www.loopple.com/templates/web-hosting
 - Wedding - https://www.loopple.com/templates/wedding
   
+## Templates
   
+|No.| Template Name  | Image Preview | Template Page | Live Editor | 
+|-----|----------------|--|--------------|--------------|
+|  01  | Ecommerce Gift Shop Landing Page |![Ecommerce Gift Shop Landing Page](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Ecommerce%20Gift%20Shop%20Landing%20Page.png)|[template page](https://www.loopple.com/product/ecommerce-gift-shop-landing-page)|[live editor](https://www.loopple.com/samples/ecommerce-gift-shop-landing-page)   
+|  02  | Hospital Landing Page |![Hospital Landing Page](https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Hospital%20Landing%20Page.png)|[template page](https://www.loopple.com/product/hospital-landing-page)|[live editor](https://www.loopple.com/samples/hospital-landing-page)  
+
   
   
   
