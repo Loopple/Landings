@@ -4,3 +4,33 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 
 <p><a href="https://www.loopple.com/website-builder">Loopple Website Builder »</a></p>
 <p><a href="https://www.loopple.com/">Loopple</a> · <a href="https://www.loopple.com/templates">Templates</a> · <a href="https://www.loopple.com/blog">Blog</a>
+
+## Categories
+
+- Education - https://www.loopple.com/templates/education
+- Blogging - https://www.loopple.com/templates/blogging
+- Classifieds Ads - https://www.loopple.com/templates/classifieds-ads
+- Coaching - https://www.loopple.com/templates/coaching
+- Corporate Business - https://www.loopple.com/templates/corporate-business
+- Basic - https://www.loopple.com/templates/basic
+- E-commerce - https://www.loopple.com/templates/ecommerce
+- Farm and Agriculture - https://www.loopple.com/templates/farm-and-agriculture
+- Hospital - https://www.loopple.com/templates/hospital
+- Medical - https://www.loopple.com/templates/medical
+- Mobile App - https://www.loopple.com/templates/mobile-app
+- Personal Website - https://www.loopple.com/templates/personal-website
+- Real Estate - https://www.loopple.com/templates/real-estate
+- Web Agency - https://www.loopple.com/templates/web-agency
+- Web Elements - https://www.loopple.com/templates/web-elements
+- Web Hosting - https://www.loopple.com/templates/web-hosting
+- Wedding - https://www.loopple.com/templates/wedding
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
