@@ -56,7 +56,24 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 |  19  | Online Course Landing Page |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Online%20Course%20Landing%20Page.png" alt="Online Course Landing Page" width="250">|[template page](https://www.loopple.com/product/online-course-landing-page)|[live editor](https://www.loopple.com/product/online-course-landing-page)  
   
   
+## Bugs and feature requests
+
+Have a bug or a feature request? [Please open a new issue](https://github.com/loopple/website-templates/issues/new).
+
+
+## Community
+
+Get updates on Loopple Templates' development and chat with us:
+
+- Follow [@loopple on Twitter](https://twitter.com/loopple)
+- Read [The Official Loopple Blog](https://www.loopple.com/blog)
+- Check the [Official Website](https://www.loopple.com/templates)
+- Join us [on Facebook](https://www.facebook.com/looppleofficial)
+- [Instagram](https://www.instagram.com/looppleofficial/)
+- [Pinterest](https://www.pinterest.com/loopple/)
+- [Discord](https://discord.gg/mU7wgc3tRN)
   
+
   
   
   
