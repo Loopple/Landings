@@ -9,7 +9,8 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 
 - [Categories](#categories)
 - [Templates](#templates)
-  
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Community](#community)
   
 ## Categories
 
