@@ -5,6 +5,9 @@ Explore hundreds of beautiful website and landing page templates. Loopple's drag
 <p><a href="https://www.loopple.com/website-builder">Loopple Website Builder »</a></p>
 <p><a href="https://www.loopple.com/">Loopple</a> · <a href="https://www.loopple.com/templates">Templates</a> · <a href="https://www.loopple.com/blog">Blog</a>
 
+ ![Templates presentation GitHub](https://user-images.githubusercontent.com/27827318/162336589-ba97bec0-bb23-4d2b-adf5-cf3b83514a28.png)
+
+
 ## Table of contents
 
 - [Categories](#categories)
