@@ -1,0 +1,141 @@
+/* Loopple Alert */
+.loopple-alert {
+  position: relative;
+  margin-bottom: 16px;
+  padding: 16px 24px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-size: 14px;
+}
+.loopple-alert.loopple-alert-gradient-dark {
+  color: #fff;
+  border-color: #45484b;
+  background: linear-gradient(87deg, #212529 0, #212229 100%) !important;
+}
+.loopple-alert.loopple-alert-dismissible .close {
+  top: 50%;
+  right: 24px;
+  padding: 0;
+  transform: translateY(-50%);
+  opacity: 1;
+  position: absolute;
+  color: inherit;
+  border: 0;
+  background: transparent;
+}
+.loopple-alert.loopple-alert-dismissible .close span {
+  color: #fff;
+}
+.loopple-fade {
+  transition: opacity 0.15s linear;
+}
+
+/* Loopple Button */
+.loopple-btn {
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-align: center;
+  vertical-align: middle;
+  position: relative;
+  transition: all 0.15s ease;
+  padding: 10px 20px;
+  letter-spacing: 0.3px;
+  text-transform: none;
+  will-change: transform;
+}
+.loopple-btn.loopple-btn-white {
+  color: #212529;
+  border-color: #fff;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+.loopple-btn.loopple-btn-white:hover {
+  color: #212529;
+  border-color: #fff;
+  background-color: #fff;
+}
+.loopple-btn.loopple-btn-white:focus, .loopple-btn.loopple-btn-white.focus {
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08), 0 0 0 0 rgba(255, 255, 255, 0.5) l;
+}
+.loopple-btn.loopple-btn-white:not(:disabled):not(.disabled):active, .loopple-btn.loopple-btn-white:not(:disabled):not(.disabled).active {
+  color: #212529;
+  border-color: #fff;
+  background-color: #e6e6e6;
+}
+
+/* Loopple Utilities */
+.loopple-position-absolute {
+  position: absolute;
+}
+
+.loopple-position-sticky {
+  position: sticky;
+}
+
+.loopple-position-fixed {
+  position: fixed;
+}
+
+.loopple-z-index-9999{
+  z-index: 9999;
+}
+
+.loopple-bottom-2 {
+  bottom: 8px;
+}
+
+.loopple-mx-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.loopple-text-center {
+  text-align: center;
+}
+
+.loopple-right-0 {
+  right: 0;
+}
+
+.loopple-left-0 {
+  left: 0;
+}
+
+.loopple-w-50 {
+  width: 50%;
+}
+
+.loopple-ml-1,
+.loopple-mx-1 {
+  margin-left: 4px;
+}
+
+.loopple-ml-2,
+.loopple-mx-2 {
+  margin-left: 8px;
+}
+
+.loopple-opacity-0{
+  opacity: 0;
+}
+
+/* Loopple Badge */
+.loopple-badge{
+  position: fixed;
+  font-size: 66%;
+  font-weight: 600;
+  line-height: 1;
+  display: inline-block;
+  background-color: #eaecfb;
+  bottom: 2% !important;
+  right: 1% !important;
+  padding: 5.5px 6px;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  text-align: center;
+  vertical-align: baseline;
+  white-space: nowrap;
+  border-radius: 6px;
+}
