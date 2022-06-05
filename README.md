@@ -1,11 +1,11 @@
-# [Responsive Website Templates](https://www.loopple.com/templates) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Free%20Website%20Templates%20from%20Loopple%20based%20on%20Bootstrap%205&url=https://www.loopple.com/templates&via=loopple&hashtags=bootstrap,design,templates,blocks,developers)
+# [HTML Templates for any use case](https://www.loopple.com/templates) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Free%20Website%20Templates%20from%20Loopple%20based%20on%20Bootstrap%205&url=https://www.loopple.com/templates&via=loopple&hashtags=bootstrap,design,templates,blocks,developers)
 
-Explore hundreds of beautiful website and landing page templates. Loopple's drag and drop functionality allows you to quickly customize your design for any use case.
+Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Dashboards templates made for any use case. You can simply download a template or duplicate & edit them using Loopple Builder.
 
 <p><a href="https://www.loopple.com/website-builder">Loopple Website Builder »</a></p>
 <p><a href="https://www.loopple.com/">Loopple</a> · <a href="https://www.loopple.com/templates">Templates</a> · <a href="https://www.loopple.com/blog">Blog</a>
 
- ![github-image-shadow](https://user-images.githubusercontent.com/27827318/162787817-4ab465d3-186f-4e5a-8f6e-d0fda044684a.png)
+![Loopple Landings](https://user-images.githubusercontent.com/27827318/172053439-b5f19e10-3406-49fd-be80-b65a85cabace.png)
 
 ## Table of contents
 
