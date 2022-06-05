@@ -34,6 +34,7 @@ Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Da
 - Web Elements - https://www.loopple.com/templates/web-elements
 - Web Hosting - https://www.loopple.com/templates/web-hosting
 - Wedding - https://www.loopple.com/templates/wedding
+- Dashboard - https://www.loopple.com/templates/dashboard
   
 ## Templates
   
