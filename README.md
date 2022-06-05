@@ -89,7 +89,7 @@ Get updates on Loopple Templates' development and chat with us:
 
 Special thanks to everyone who contributed to getting the Loopple Templates available:
   
-- [Creative Tim](https://www.creative-tim.com/) - Help with the Soft UI Design System Theme
+- [Creative Tim](https://www.creative-tim.com/) - Help with the Soft UI Design System & Soft UI Dashboard Themes
 - [Pexels](https://www.pexels.com/) - Videos
 - [Unsplash](https://unsplash.com/) - Images
 
