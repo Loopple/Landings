@@ -38,6 +38,8 @@ Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Da
   
 ## Templates
   
+### Landing Pages & Websites
+  
 |No.| Template Name  | Image Preview | Template Page |
 |-----|----------------|--|--------------|
 |  01  | Ecommerce Gift Shop Landing Page |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Ecommerce%20Gift%20Shop%20Landing%20Page.png" alt="Ecommerce Gift Shop Landing Page" width="250">|[template page](https://www.loopple.com/product/ecommerce-gift-shop-landing-page)
@@ -70,6 +72,18 @@ Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Da
 |  28  | Food Delivery Landing Page |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Food%20Delivery%20Landing%20Page.png" alt="Food Delivery Landing Page" width="250">|[template page](https://www.loopple.com/product/food-delivery-landing-page)
 |  29  | Smartfarm Landing Page |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/SmartFarm%20Landing%20Page.png" alt="Smartfarm Landing Page" width="250">|[template page](https://www.loopple.com/product/smartfarm-landing-page)
 |  30  | Software Digital Agency Website |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Software%20Digital%20Agency%20Website.png" alt="Software Digital Agency Website" width="250">|[template page](https://www.loopple.com/product/software-digital-agency-website)
+  
+### Dashboards
+  
+|No.| Template Name  | Image Preview | Template Page |
+|-----|----------------|--|--------------|
+|  01  | Ecommerce Dashboard |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Ecommerce%20Dashboard.png" alt="Ecommerce Dashboard" width="250">|[template page](https://www.loopple.com/product/ecommerce-dashboard-argon-dashboard)
+|  02  | Crypto Dashboard - Asteria |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Crypto%20Dashboard%20-%20Asteria.png" alt="Crypto Dashboard - Asteria" width="250">|[template page](https://www.loopple.com/product/crypto-dashboard-asteria)
+|  03  | Music Admin Panel - Soft UI Dashboard |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Music%20Dashboard%20-%20Soft%20UI%20Dashboard.png" alt="Music Admin Panel - Soft UI Dashboard" width="250">|[template page](https://www.loopple.com/product/music-admin-panel-soft-ui-dashboard)
+|  04  | Chat Page Dashboard |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Chat%20Dashboard%20-%20Argon%20Dashboard.png" alt="Chat Page Dashboard" width="250">|[template page](https://www.loopple.com/product/chat-page-argon-dashboard)
+|  05  | Sales Dashboard - Soft UI |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Sales%20Dashboard%20-%20Soft%20UI%20Dashboard.png" alt="Chat Page Dashboard" width="250">|[template page](https://www.loopple.com/product/sales-dashboard-soft-ui-dashboard)
+|  06  | Sales Dashboard - Asteria |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Sales%20Dashboard%20-%20Asteria%20Dashboard.png" alt="Sales Dashboard - Asteria" width="250">|[template page]([https://www.loopple.com/product/sales-dashboard-soft-ui-dashboard](https://www.loopple.com/product/sales-dashboard-asteria-dashboard))
+|  07  | Profile Dashboard |<img src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/website-templates/Profile%20Dashboard.png">|[template page](https://www.loopple.com/product/profile-dashboard-argon-dashboard)
   
 ## Bugs and feature requests
 
