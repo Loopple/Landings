@@ -1,4 +1,4 @@
-# [HTML Templates for any use case](https://www.loopple.com/templates) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Free%20Website%20Templates%20from%20Loopple%20based%20on%20Bootstrap%205&url=https://www.loopple.com/templates&via=loopple&hashtags=bootstrap,design,templates,blocks,developers)
+# [HTML Website Templates for any use case](https://www.loopple.com/templates) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Free%20Website%20Templates%20from%20Loopple%20based%20on%20Bootstrap%205&url=https://www.loopple.com/templates&via=loopple&hashtags=bootstrap,design,templates,blocks,developers)
 
 Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Dashboards templates made for any use case. You can simply download a template or duplicate & edit them using Loopple Builder.
 
